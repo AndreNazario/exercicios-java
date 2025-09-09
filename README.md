@@ -1,4 +1,4 @@
-# 📝 Exercícios em Java
+# 📝 Exercícios em Jav
 
 Repositório criado para reunir meus estudos e práticas de lógica de programação utilizando Java.  
 O objetivo é reforçar a base de raciocínio lógico através de exercícios simples e mini-projetos, com dificuldade progressiva.
